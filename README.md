@@ -1,6 +1,6 @@
-# VrajeshCal - Flutter Calculator App 🧮
+# VrajeshCal - My Flutter Calculator App 🧮
 
-VrajeshCal is a minimalist calculator app developed using Flutter. This project, initiated by Vrajesh Thaker during the exploration of Flutter development, showcases fundamental arithmetic operations, percentage conversion, and an intuitive history screen. Dive into the world of Flutter with this beginner-friendly project.
+Hey there! I'm Vrajesh Thaker, and I'm excited to share my Flutter calculator app - VrajeshCal. This project has been a delightful exploration of Flutter development, featuring fundamental arithmetic operations, percentage conversion, and an intuitive history screen. Let's dive into the world of Flutter together!
 
 ## Features 🚀
 
@@ -28,8 +28,8 @@ For comprehensive guidance on Flutter development, refer to the [online document
 
 ## Contributions 🤝
 
-Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
+I'm open to contributions! Feel free to open issues, submit pull requests, or suggest improvements.
 
 ## License 📜
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). Thanks for exploring VrajeshCal with me! 🌟
