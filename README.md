@@ -1,6 +1,9 @@
 # VrajeshCal - My Flutter Calculator App 🧮
 
-Hey there! I'm Vrajesh Thaker, and I'm thrilled to introduce you to my Flutter calculator app - VrajeshCal. This project has been a delightful exploration of Flutter development, featuring fundamental arithmetic operations, percentage conversion, and an intuitive history screen. Let's embark on a Flutter journey together!
+Hello, fellow Flutter enthusiasts! 🚀 I'm Vrajesh Thaker, and I'm thrilled to share with you my journey into the world of Flutter through VrajeshCal, a delightful calculator app. 🧮 Let's embark on this Flutter adventure together! 🌟
+
+## About the App 🚀
+VrajeshCal is more than just a calculator; it's the outcome of my learning adventure in Flutter development. This app showcases essential arithmetic operations, percentage conversion, and a user-friendly history screen.
 
 ## Features 🚀
 
