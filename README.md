@@ -30,7 +30,7 @@ For comprehensive guidance on Flutter development, refer to the [online document
 
 | ![Screenshot 1](https://github.com/Vrajesh23/Cal_C_Vrajesh_Flutter/assets/93343411/a7f263b4-c562-4ade-8843-f97c3c3eebcc) | ![Screenshot 2](https://github.com/Vrajesh23/Cal_C_Vrajesh_Flutter/assets/93343411/62269ff8-ad6b-4709-bf9d-26e44f86e44a) | ![Screenshot 3](https://github.com/Vrajesh23/Cal_C_Vrajesh_Flutter/assets/93343411/392fa03a-16d9-474f-9e43-407c1df7abd3) |
 |:---:|:---:|:---:|
-| *Small Screenshot 1* | *Small Screenshot 2* | *Small Screenshot 3* |
+| *Screenshot 1* | *Screenshot 2* | *Screenshot 3* |
 
 ## Contributions 🤝
 
