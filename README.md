@@ -26,6 +26,15 @@ For comprehensive guidance on Flutter development, refer to the [online document
 4. Connect a device or start an emulator.
 5. Run `flutter run` to launch the app.
 
+## Screen Shots ▶️
+![Screenshot_2024-01-14-14-04-21-866_com miui home](https://github.com/Vrajesh23/Cal_C_Vrajesh_Flutter/assets/93343411/a7f263b4-c562-4ade-8843-f97c3c3eebcc)
+
+![Screenshot_2024-01-14-14-04-32-123_com example vrajeshcal](https://github.com/Vrajesh23/Cal_C_Vrajesh_Flutter/assets/93343411/62269ff8-ad6b-4709-bf9d-26e44f86e44a)
+
+![Screenshot_2024-01-14-14-04-50-014_com example vrajeshcal](https://github.com/Vrajesh23/Cal_C_Vrajesh_Flutter/assets/93343411/392fa03a-16d9-474f-9e43-407c1df7abd3)
+
+
+
 ## Contributions 🤝
 
 I'm open to contributions! Feel free to open issues, submit pull requests, or suggest improvements.
