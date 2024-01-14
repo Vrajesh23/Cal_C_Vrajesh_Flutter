@@ -1,5 +1,3 @@
-
-
 # VrajeshCal - My Flutter Calculator App 🧮
 
 Hey there! I'm Vrajesh Thaker, and I'm thrilled to introduce you to my Flutter calculator app - VrajeshCal. This project has been a delightful exploration of Flutter development, featuring fundamental arithmetic operations, percentage conversion, and an intuitive history screen. Let's embark on a Flutter journey together!
@@ -29,9 +27,10 @@ For comprehensive guidance on Flutter development, refer to the [online document
 5. Run `flutter run` to launch the app.
 
 ## Screen Shots 📸
-![Screenshot 1](https://github.com/Vrajesh23/Cal_C_Vrajesh_Flutter/assets/93343411/a7f263b4-c562-4ade-8843-f97c3c3eebcc | width=200)
-![Screenshot 2](https://github.com/Vrajesh23/Cal_C_Vrajesh_Flutter/assets/93343411/62269ff8-ad6b-4709-bf9d-26e44f86e44a | width=200)
-![Screenshot 3](https://github.com/Vrajesh23/Cal_C_Vrajesh_Flutter/assets/93343411/392fa03a-16d9-474f-9e43-407c1df7abd3 | width=200)
+
+| ![Screenshot 1](https://github.com/Vrajesh23/Cal_C_Vrajesh_Flutter/assets/93343411/a7f263b4-c562-4ade-8843-f97c3c3eebcc) | ![Screenshot 2](https://github.com/Vrajesh23/Cal_C_Vrajesh_Flutter/assets/93343411/62269ff8-ad6b-4709-bf9d-26e44f86e44a) | ![Screenshot 3](https://github.com/Vrajesh23/Cal_C_Vrajesh_Flutter/assets/93343411/392fa03a-16d9-474f-9e43-407c1df7abd3) |
+|:---:|:---:|:---:|
+| *Small Screenshot 1* | *Small Screenshot 2* | *Small Screenshot 3* |
 
 ## Contributions 🤝
 
